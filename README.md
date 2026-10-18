@@ -1,5 +1,7 @@
 # Advertising Revenue Intelligence — Streamlit Dashboard
 
+Interactive Streamlit dashboard for advertising revenue, campaign performance, and advertiser insights. Built with Python, Pandas, and Plotly using synthetic campaign data.
+
 ## Live dashboard
 
 **[Open the interactive Streamlit dashboard](https://advertising-revenue-intelligence-e6kkqr5kh9rrdg3fnwqmmu.streamlit.app/)**
