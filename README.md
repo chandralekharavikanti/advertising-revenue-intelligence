@@ -1,5 +1,10 @@
 # Advertising Revenue Intelligence — Streamlit Dashboard
 
+## Live dashboard
+
+**[Open the interactive Streamlit dashboard](https://advertising-revenue-intelligence-e6kkqr5kh9rrdg3fnwqmmu.streamlit.app/)**
+
+
 **Live interactive BI portfolio app** built with Streamlit, Plotly and Pandas. All data is **synthetic** and does not represent a real publisher or SME.
 
 ## Dashboard pages
